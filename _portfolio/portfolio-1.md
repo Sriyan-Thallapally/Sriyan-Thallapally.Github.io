@@ -1,6 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Science Fair Project"
+
+excerpt: "The project is about checking the air quality around places in my city.</b>
+The tools that I used are plastic, vaseline, and computers to track and analyze my data.</b>
+Something that I learned is that Air quality gets worse as you get to places that have less to no filters.</b>
+Challenges that I faced and solved were how to track data, but I solved that by using Google Slides and making it a graph.</b>
+ 1<br/><img src='/images/Marketing-project.png'>"
+ 
 collection: portfolio
 ---
 
