@@ -1,7 +1,11 @@
 ---
 title: "Marketing Project"
 
-excerpt: " 1<br/><img src='/images/Marketing-project.png'>"
+excerpt: "This project shows the 4 key methods that Salespeople use to ensure a sale.</b>
+The tools that I used are Business U and Student CTE.</b>
+I learned how salespeople ensure sales and how they use emotional connection.</b>
+One challenge I solved was how to make something sound unbiased.</b>
+ 1<br/><img src='/images/Marketing-project.png'>"
  
 collection: portfolio
 ---
