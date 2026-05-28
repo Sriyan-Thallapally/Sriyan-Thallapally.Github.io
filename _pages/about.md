@@ -14,16 +14,26 @@ I am a student at Richland High School interested in Law. I love to play sports 
 Skills
 =======
 
-java</b>
-problem-solving</b>
-teamwork</b>
-Encouraging</b>
-Hard worker</b>
-leading</b>
-Logical Thinker</b>
-Back Belt in Taekwondo</b>
-Fast paced</b>
-Good time manager</b>
+java  
+
+problem-solving  
+
+teamwork  
+
+Encouraging  
+
+Hard worker  
+
+leading  
+
+Logical Thinker  
+
+Back Belt in Taekwondo  
+
+Fast paced  
+ 
+Good time manager  
+
 
 
 Career Goals
