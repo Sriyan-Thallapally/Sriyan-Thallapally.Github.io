@@ -31,4 +31,6 @@ Career Goals
 
 I want to pursue a CAreer in Law where I want to study two types of law. These types of laws are criminal law and a personal lawyer to a big star. I want to reach these goals because I think everyone deserves a fair chance to say why they are not guilty.
 
-
+Resume
+=======
+https://docs.google.com/document/d/1aEkLf1vPmOJKJt_-KwNmhhYPyrRddjVqbIahoczWlJ8/edit?tab=t.0 
