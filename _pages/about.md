@@ -8,22 +8,22 @@ redirect_from:
 ---
 
 
-I am a student at Richland High School interested in Law. I love to play sports all year round. I currently play pickleball in tournaments. I also volunteer at Kadlec Hospital every week to help the people around me. I also attend Scouting America, where I am an assistant patrol leader, helping lead my patrol in any way that is needed so they can achieve their goals. Through my many activities, I started the congressional volunteering award, where I have to complete a certain number of hours for physical fitness, volunteering, personal development, and an exhibition at a certain location for a certain time length.
+I am a student at Richland High School interested in Law. I love to play sports all year round. I currently play pickleball in tournaments. I also volunteer at Kadlec Hospital every week to help the people around me. I also attend Scouting America, where I serve as an assistant patrol leader, helping to lead my patrol in any way needed so they can achieve their goals. Through my various activities, I initiated the Congressional Volunteer Award, which requires completing a specified number of hours in physical fitness, volunteering, personal development, and participating in an exhibition at a designated location for a set duration.
 
 
 Skills
 =======
 
-java
-problem-solving
-teamwork
-Encouraging
-Hard worker
-leading
-Logical Thinker
-Back Belt in Taekwondo
-Fast paced
-Good time manager
+java</b>
+problem-solving</b>
+teamwork</b>
+Encouraging</b>
+Hard worker</b>
+leading</b>
+Logical Thinker</b>
+Back Belt in Taekwondo</b>
+Fast paced</b>
+Good time manager</b>
 
 
 Career Goals
