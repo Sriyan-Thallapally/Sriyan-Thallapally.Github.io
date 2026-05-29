@@ -42,4 +42,4 @@ I want to pursue a CAreer in Law where I want to study two types of law. These t
 
 Resume
 =======
-https://docs.google.com/document/d/1aEkLf1vPmOJKJt_-KwNmhhYPyrRddjVqbIahoczWlJ8/edit?tab=t.0 
+[CLICK HERE for my Resume](https://docs.google.com/document/d/1aEkLf1vPmOJKJt_-KwNmhhYPyrRddjVqbIahoczWlJ8/edit?tab=t.0 )
