@@ -3,7 +3,7 @@ title: "Marketing Project"
 
 excerpt: " This is a marketing project I did to learn about how Salespeople ensure sales.
 
- 1<br/><img src='/images/Marketing-project.png'>"
+ <br/><img src='/images/Marketing-project.png'>"
  
 collection: portfolio
 ---
