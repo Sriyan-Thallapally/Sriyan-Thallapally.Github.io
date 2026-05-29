@@ -14,17 +14,17 @@ _________________________________________________________________
 Skills
 
 
-java  
+Java  
 
-problem-solving  
+Problem-solving  
 
-teamwork  
+Teamwork  
 
 Encouraging  
 
 Hard worker  
 
-leading  
+Able to lead others  
 
 Logical Thinker  
 
@@ -34,6 +34,7 @@ Fast paced
  
 Good time manager  
 
+Strategic Planning
 
 _________________________________________________________________
 Career Goals
@@ -42,4 +43,4 @@ I want to pursue a CAreer in Law where I want to study two types of law. These t
 
 Resume
 =======
-[CLICK HERE for my Resume](https://docs.google.com/document/d/1aEkLf1vPmOJKJt_-KwNmhhYPyrRddjVqbIahoczWlJ8/edit?tab=t.0 )
+[CLICK HERE for my Resume](https://docs.google.com/document/d/1aEkLf1vPmOJKJt_-KwNmhhYPyrRddjVqbIahoczWlJ8/edit?tab=t.0)
