@@ -12,7 +12,7 @@ I am a student at Richland High School interested in Law. I love to play sports 
 
 _________________________________________________________________
 Skills
-=======
+
 
 java  
 
@@ -37,7 +37,6 @@ Good time manager
 
 _________________________________________________________________
 Career Goals
-=============
 
 I want to pursue a CAreer in Law where I want to study two types of law. These types of laws are criminal law and a personal lawyer to a big star. I want to reach these goals because I think everyone deserves a fair chance to say why they are not guilty. Also, I have seen many people get wrongfully convicted of something they didn't do, which makes me want to do something to make fewer people go through this.
 
