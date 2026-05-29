@@ -3,7 +3,7 @@ title: "Science Fair Project"
 
 excerpt: " This is my Science Fair Project about air quality.
 
- 1<br/><img src='/images/Marketing-project.png'>"
+ <br/><img src='/images/Marketing-project.png'>"
  
 collection: portfolio
 ---
